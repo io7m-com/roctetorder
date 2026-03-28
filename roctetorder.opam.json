@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "authors": "Mark Raynsford <code@io7m.com>",
   "bug-reports": "https://github.com/io7m-com/roctetorder/issues",
-  "dev-repo": "https://github.com/io7m-com/roctetorder",
+  "dev-repo": "git+https://github.com/io7m-com/roctetorder",
   "homepage": "https://www.io7m.com/software/roctetorder",
   "license": "ISC",
   "maintainer": "Mark Raynsford <code@io7m.com>",
